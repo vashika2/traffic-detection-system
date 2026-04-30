@@ -2,7 +2,7 @@
 
 
 A Traffic Detection Model is a computer vision–based system designed to automatically identify, classify, and analyze vehicles and traffic elements from images or video streams. It uses advanced deep learning techniques to monitor real-world traffic conditions and assist in intelligent transportation systems.
-
+This system works tye best with clear image data.
 Overview
 
 The model processes input from sources like CCTV cameras, drones, or dashcams and detects various objects such as:
