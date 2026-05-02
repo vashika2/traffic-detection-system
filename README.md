@@ -44,7 +44,8 @@ Applications
 Smart traffic management systems
 Automated traffic signal control
 Surveillance and law enforcement
-Urban planning and congestion analysis
-🎯 Goal
+Urban planning and congestion analysis 
+
+Goal
 
 The primary goal of this model is to reduce traffic congestion, improve road safety, and enable smarter city infrastructure by providing accurate, real-time traffic insights.
