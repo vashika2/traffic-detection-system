@@ -16,6 +16,7 @@ Pedestrians 🚶
 It not only detects these objects but can also track their movement, count vehicles, and analyze traffic density in real time.
 
 How It Works
+
 Input Capture
 Video or image data is collected from traffic cameras.
 Preprocessing
@@ -28,12 +29,14 @@ Tracking & Analysis
 Tracks movement across frames, counts vehicles, and calculates traffic flow.
 
 Technologies Used
+
 Deep Learning / CNNs
 Frameworks: TensorFlow, PyTorch
 OpenCV for image processing
 Pre-trained models (transfer learning)
 
 Key Features
+
 Real-time vehicle detection
 Traffic density estimation
 Lane monitoring
@@ -41,6 +44,7 @@ Accident detection (advanced use case)
 Vehicle counting and classification
 
 Applications
+
 Smart traffic management systems
 Automated traffic signal control
 Surveillance and law enforcement
